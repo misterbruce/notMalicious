@@ -1,4 +1,6 @@
-**notMalicious** is my attempt at better understanding potential cybersecurity challenges in a college settings.
+**notMalicious** is my attempt at better understanding potential cybersecurity challenges in a college settings, and to try to 
+keep the exercise calm I will be having "stand-in" processes that will serve as proof-of-concept rather than a fully functioning
+AiTM (Attacker in The Middle) attack.
 
 In seeking to further my knowledge of cybersecurity I was lead to try my hand at malware and, more specifically, ransomware.
 And before I go further I would like to put a disclaimer that this was and will never be used to compromise or otherwise mislead
