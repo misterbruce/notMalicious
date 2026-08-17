@@ -1,0 +1,99 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.button-look{
+    background-color: #00A3EE;
+    color: white;
+    font-size: large;
+    width: 140;
+    height: 25;
+    display: grid;
+    justify-content: center;
+    align-items: flex-start;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    margin-top: 10;
+    padding-top: 8;
+    padding-bottom: 8;
+}
+
+.paragraph {
+    margin-top: 1;
+    color: grey;
+    font-size: large;
+}
+
+input[type="text"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: large;
+}
+
+h1 {
+    margin-bottom: 1;
+}
+
+h2 {
+    padding-left: 10px;
+    color: grey;
+}
+
+a {
+    color: #00A3EE;
+    padding-top: 24;
+    text-decoration: none;
+    font-size: large;
+    opacity: 100;
+}
+
+#box-above {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#box-parent {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#box-outer {
+    box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.2); 
+    background-color: white;
+    opacity: 55;
+    width: 600;
+    height: 470;
+}
+
+#box-inner {
+    display: grid;
+    justify-content: start;
+    margin: 55;
+}
+
+#logo-format {
+    display: flex;
+    align-items: center;
+}
+
+#button-format {
+    display: grid;
+    justify-content: end;
+    width: 490;
+}
+
+#sign-in {
+    margin-top: 100;
+}
+
+#sent-a-code {
+    margin-top: 13;
+}
